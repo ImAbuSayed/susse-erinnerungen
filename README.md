@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susse-erinnerungen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Süße Erinnerungen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susse-erinnerungen/) |
+| **Get License** | [Official Music Licensing for Süße Erinnerungen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susse-erinnerungen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rotes Neonlicht, der Motor heult, steig in den AMG
+> Du bist der Grund, warum ich heut Nacht nicht schlafen geh
+> Süße Erinnerungen, Haut an Haut, wir brennen heiß
+> Lass sie reden, Babe, wir beide brechen jedes Eis
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
